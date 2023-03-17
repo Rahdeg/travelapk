@@ -1,0 +1,9 @@
+export { default as HeroImage } from "./hero.png";
+export { default as Avatar } from "./avatar.png";
+export { default as Hotels } from "./hotel.png";
+export { default as Attractions } from "./attraction.png";
+export { default as Restaurants } from "./restaurants.png";
+export { default as NotFound } from "./NotFound.png";
+export { default as Attraction } from "./group-elephants-big-green-tree-wilderness.jpg";
+export { default as Restaurant } from "./baked-chicken-wings-asian-style-tomatoes-sauce-plate.jpg";
+export { default as Hotel } from "./view-pool-hotel-ocean-water.jpg";
